@@ -1,7 +1,7 @@
 {
-  "name": "blank-workspace",
+  "name": "project-factorial-feature",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test Driven Development with Mocha",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -9,6 +9,17 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jay",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkalio52/project-factorial-feature-TDD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jkalio52/project-factorial-feature-TDD/issues"
+  },
+  "homepage": "https://github.com/Jkalio52/project-factorial-feature-TDD#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
 }
