@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Jkalio52/project-factorial-feature-TDD#readme",
   "devDependencies": {
-    "mocha": "^10.1.0"
+    "mocha": "^10.8.2"
   }
 }
